@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>q</string>
+	</array>
+	<key>firstLineMatch</key>
+	<string>^#!.*\bq\b</string>
+	<key>name</key>
+	<string>Q</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>source.k4</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(aj|aj0|all|and|any|asc|asof|attr|avgs|ceiling|cols|count|cross|csv|cut|deltas|desc|differ|distinct|dsave|each|ej|enlist|eval|except|fby|fills|first|fkeys|flip|floor|get|group|gtime|hclose|hcount|hdel|hopen|hsym|iasc|idesc|ij|inter|inv|key|keys|lj|ljf|load|lower|lsq|ltime|ltrim|mavg|maxs|mcount|md5|mdev|med|meta|mins|mmax|mmin|mmu|mod|msum|neg|next|not|null|or|over|parse|peach|pj|plist|prds|prior|prev|rand|rank|ratios|raze|read0|read1|reciprocal|reval|reverse|rload|rotate|rsave|rtrim|save|scan|scov|sdev|set|show|signum|ssr|string|sublist|sums|sv|svar|system|tables|til|trim|txf|type|uj|ungroup|union|upper|upsert|value|view|views|vs|where|wj|wj1|ww|xasc|xbar|xcol|xcols|xdesc|xgroup|xkey|xlog|xprev|xrank)\b</string>
+			<key>name</key>
+			<string>variable.language.q</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.q</string>
+	<key>uuid</key>
+	<string>7070A531-6B67-4E8C-94A3-3D09B7F8B170</string>
+</dict>
+</plist>

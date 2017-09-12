@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>avpx.cfnevf@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Nick Psaris</string>
+	<key>description</key>
+	<string>Syntax highlight for &lt;a href="http://kx.com/"&gt;KX&lt;/a&gt; K4 and Q languages.</string>
+	<key>name</key>
+	<string>KX</string>
+	<key>uuid</key>
+	<string>821A47BB-AB00-4D6A-9AE1-BA820B4AD455</string>
+</dict>
+</plist>
